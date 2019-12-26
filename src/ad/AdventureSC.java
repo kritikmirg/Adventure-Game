@@ -11,8 +11,7 @@ public class AdventureSC
         int a1, a2, a3,a4;
         
         System.out.println("======================="
-                        +"\n APOCALYPTIC ADVENTURE"
-                        +"\n    BK"
+                        +"\n The Cave of Wonder"
                         +"\n=======================");
                         
         System.out.print("\n"+ quest.Q1());
